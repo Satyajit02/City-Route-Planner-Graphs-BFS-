@@ -11,4 +11,4 @@ A Python-based navigation tool that finds the shortest path between cities using
 1. Install Python 3.x
 2. Run the script:
    ```bash
-   python city_planner.py
+   python CityRoutePlanner(Graphs – BFS).py
